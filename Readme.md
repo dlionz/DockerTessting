@@ -1,4 +1,4 @@
-#Dock + .Net + MongoDb attempt
+# Dock + .Net + MongoDb attempt
 
 trying to get docker, .net core, and mongodb to play together.
 
