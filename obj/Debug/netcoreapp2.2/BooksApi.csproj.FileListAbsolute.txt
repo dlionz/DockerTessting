@@ -1,0 +1,14 @@
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/BooksApi.deps.json
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.json
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.dev.json
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/BooksApi.dll
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/bin/Debug/netcoreapp2.2/BooksApi.pdb
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.RazorTargetAssemblyInfo.cache
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.dll
+/Users/damienbreaux/Documents/Code/Work/DOCKERTEST/SampleApp/obj/Debug/netcoreapp2.2/BooksApi.pdb
